@@ -1,6 +1,6 @@
 public class factorialcalculator {
     public static void main(String[] args) {
-        int value = 7;  // Predefined number to calculate factorial
+        int value = 6;  // Predefined number to calculate factorial
         int factorial = 1;
 
         for (int i = 1; i <= value; i++) { // Loop through numbers
